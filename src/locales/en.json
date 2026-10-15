@@ -1,0 +1,41 @@
+{
+  "search": "Search a city",
+  "searching": "Searching...",
+  "noMatches": "No matches. Try Cairo, London, Reykjavík, or Tokyo.",
+  "feelsLike": "Feels like",
+  "hi": "H",
+  "lo": "L",
+  "hourly": "Hourly forecast",
+  "daily": "7-day forecast",
+  "humidity": "Humidity",
+  "wind": "Wind",
+  "uv": "UV Index",
+  "visibility": "Visibility",
+  "sunrise": "Sunrise",
+  "sunset": "Sunset",
+  "kmh": "km/h",
+  "km": "km",
+  "langToggle": "العربية",
+  "dark": "Dark",
+  "light": "Light",
+  "today": "Today",
+  "tomorrow": "Tomorrow",
+  "weekdays": {
+    "sun": "Sun",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat"
+  },
+  "conditions": {
+    "clear": "Clear sky",
+    "clouds": "Cloudy",
+    "fog": "Foggy",
+    "drizzle": "Drizzle",
+    "rain": "Rain",
+    "snow": "Snow",
+    "thunderstorm": "Thunderstorm"
+  }
+}

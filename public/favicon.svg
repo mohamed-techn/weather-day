@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#2B3352"/>
+      <stop offset="1" stop-color="#6B9BD1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="15" fill="url(#sky)"/>
+
+  <!-- السحابة -->
+  <path d="M19 38a9 9 0 0 1 1.5-17.9A12.5 12.5 0 0 1 44.6 23 8.5 8.5 0 0 1 45 38z" fill="#FFFFFF"/>
+
+  <!-- البرق -->
+  <path d="M35 33 28 45h5l-3 10 10-14h-5.5l3.5-8z" fill="#F5C542"/>
+
+  <!-- المطر -->
+  <g stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" opacity="0.85">
+    <line x1="19" y1="44" x2="16.5" y2="50"/>
+    <line x1="25" y1="48" x2="22.5" y2="54"/>
+    <line x1="46" y1="44" x2="43.5" y2="50"/>
+  </g>
+</svg>
