@@ -7,14 +7,22 @@
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-<!--
-📸 Add a screenshot or GIF here once deployed:
-![App Preview](./screenshots/preview.png)
--->
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Light — English</b><br><img src="./screenshots/light-en.png" alt="WeatherDay light mode, English" width="100%"></td>
+    <td align="center"><b>Light — العربية</b><br><img src="./screenshots/light-ar.png" alt="WeatherDay light mode, Arabic RTL" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Dark — English</b><br><img src="./screenshots/dark-en.png" alt="WeatherDay dark mode, English" width="100%"></td>
+    <td align="center"><b>Dark — العربية</b><br><img src="./screenshots/dark-ar.png" alt="WeatherDay dark mode, Arabic RTL" width="100%"></td>
+  </tr>
+</table>
 
 ## 🔗 Live Demo
 
-> _Add your deployment link here (Vercel / Netlify)_
+🔗 **[weather-day-omega.vercel.app](https://weather-day-omega.vercel.app/)**
 
 ## ✨ Features
 
